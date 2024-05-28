@@ -1,2 +1,2 @@
 # IronMaple.github.io
-This repository is used to crreated a website
+This repository is used to created a website
